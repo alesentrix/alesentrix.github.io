@@ -7,34 +7,48 @@ h1{
   font-family:cursive;
   color:black;
   font-size:40px;
+  text-align:center;
+}
+
+h2{
+  font-family:Georgia;
+  color:darkolivegreen;
+  text-align:center;
 }
 
 div{
   background-color:darkolivegreen;
-  padding: 40px;
-  padding-bottom:40px;
+  padding: 30px;
+  padding-bottom:20px;
+  padding-top:20px;
   margin:20px;
-  }
+}
+div.center{
+  text-align:center;
+  
+}
 
 .white-text{
   color:white;
 }
+
 .green{
   color:white;
   background-color:darkolivegreen;
   font-size:18px;
- margin-bottom:10px;
- font-style:italic;
+  margin-bottom:10px;
+  font-style:italic;
 }
 
-h2{
-font-family:Georgia;
-color:darkolivegreen;}
 a{
-  color:gray;
+  color:white;
 }
 
 a:hover{
-background-color:darkgray;
-font-size:15px;
+  background-color:darkgray;
+  font-size:15px;
+}
+p.center{
+  text-align:center;
+  padding-bottom:10px;
 }
