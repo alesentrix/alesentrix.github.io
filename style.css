@@ -10,7 +10,7 @@ background-color:transparent;
 }
 
 h1{
-  font-family: "Brush Script MT", "Comic Sans MS", cursive;
+  font-family:cursive;
   color:black;
   font-size:40px;
   text-align:center;
@@ -35,6 +35,7 @@ div.center{
 }
 
 .white-text{
+  font-style:italic;
   color:white;
 }
 
