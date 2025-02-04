@@ -2,6 +2,12 @@ html {
   height: 100%;
   width: 100%;
 }
+.container{
+max-width:600px;
+margin-left:auto;
+margin-right:auto;
+background-color:transparent;
+}
 
 h1{
   font-family:cursive;
